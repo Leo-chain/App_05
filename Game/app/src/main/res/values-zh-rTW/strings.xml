@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">遊戲</string>
+    <string name="games_lobby">遊戲大廳</string>
+    <string name="guess_number">猜數字</string>
+    <string name="finger_guessing">猜拳</string>
+    <string name="reset">重置</string>
+    <string name="guess">送出</string>
+    <string name="please_enter_a_number">請輸入一個數字</string>
+    <string name="rock_paper_scissors">剪刀、石頭、布</string>
+    <string name="computer">電腦</string>
+    <string name="player">玩家</string>
+    <string name="scissor">剪刀</string>
+    <string name="rock">石頭</string>
+    <string name="paper">布</string>
+    <string name="play_choose_a_button">請選擇按鈕</string>
+    <string name="button">回上一頁</string>
+    <string name="win">你贏了!!!!!</string>
+    <string name="lose">你輸了!!!!!</string>
+    <string name="draw">平手</string>
+    <string name="back2">回上一頁</string>
+    <string name="back">回上一頁</string>
+</resources>

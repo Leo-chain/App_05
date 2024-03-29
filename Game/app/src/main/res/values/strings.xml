@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="games_lobby">Games Lobby</string>
+    <string name="guess_number">Guess Number</string>
+    <string name="finger_guessing">Finger Guessing</string>
+    <string name="reset">Reset</string>
+    <string name="guess">Guess</string>
+    <string name="please_enter_a_number">Please enter a number</string>
+    <string name="rock_paper_scissors">Rock Paper Scissors</string>
+    <string name="computer">Computer</string>
+    <string name="player">Player</string>
+    <string name="scissor">Scissor</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="play_choose_a_button">Play choose a button</string>
+    <string name="button">Button</string>
+    <string name="win">You Win!!!!!</string>
+    <string name="lose">You Lose!!!!!</string>
+    <string name="draw">Draw!!!!!</string>
+    <string name="back2">Back</string>
+    <string name="back">Back</string>
+</resources>
